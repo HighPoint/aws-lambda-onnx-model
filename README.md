@@ -27,8 +27,8 @@ This should create:
 
 
 
-    docker run --rm -v $(pwd):/package highpoints/aws-lambda-layer-zip-builder Pillow  
-    docker run --rm -v $(pwd):/package highpoints/aws-lambda-layer-zip-builder onnxruntime 
+    pillow3.8.5.zip  
+    onnxruntime3.8.5.zip
 
 
 
