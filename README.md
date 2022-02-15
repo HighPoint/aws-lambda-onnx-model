@@ -30,6 +30,8 @@ This should create:
     pillow3.8.5.zip  
     onnxruntime3.8.5.zip
 
+Add these as your AWS Lambda Layers. Make sure you include the key "PYTHONPATH" with the value "/opt/" in the AWS Lambda Environmental Variables configuration.
+
 
 
 Happy Coding!
