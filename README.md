@@ -4,6 +4,13 @@ This model has two dependencies, the python pillow and onnxruntime. These need t
 
 In order to create the Lambda Layers, do a Docker pull:
 
+
+    docker pull highpoints/aws-lambda-layer-zip-builder:latest  
+    numpy
+    Pillow
+    spaCy
+
+
   docker pull highpoints/aws-lambda-layer-zip-builder:latest
 
 Then run:
