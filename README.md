@@ -35,9 +35,10 @@ Add these as your AWS Lambda Layers. Make sure you include the key "PYTHONPATH" 
 Example:
 
 Original Image:
+
 ![dog4](https://user-images.githubusercontent.com/5720767/154103872-faee83f5-94d0-4576-9dd2-203aeb2b5e87.jpg)
 
-ONNX 10x Super Resolution
+ONNX 10x Super Resolution:
 
 ![onnxTestImage-5](https://user-images.githubusercontent.com/5720767/154103976-c861a1eb-6f44-4936-8e20-e1857ada9f42.jpg)
 
