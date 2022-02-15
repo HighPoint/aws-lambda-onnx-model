@@ -30,8 +30,16 @@ This should create:
     pillow3.8.5.zip  
     onnxruntime3.8.5.zip
 
-Add these as your AWS Lambda Layers. Make sure you include the key "PYTHONPATH" with the value "/opt/" in the AWS Lambda Environmental Variables configuration.
+Add these as your AWS Lambda Layers. Make sure you include the key "PYTHONPATH" with the value "/opt/" in the AWS Lambda Environmental Variables configuration. The AWS Lambda runtime setting should be Python 3.8, and the IAM Role should include S3 Read and Write privledges.
 
+Example:
+
+Original Image:
+![dog4](https://user-images.githubusercontent.com/5720767/154103872-faee83f5-94d0-4576-9dd2-203aeb2b5e87.jpg)
+
+ONNX 10x Super Resolution
+
+![onnxTestImage-5](https://user-images.githubusercontent.com/5720767/154103976-c861a1eb-6f44-4936-8e20-e1857ada9f42.jpg)
 
 
 Happy Coding!
