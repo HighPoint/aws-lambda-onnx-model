@@ -2,7 +2,8 @@
 
 Run LARGE machine learning models on AWS Lambda with ONNX. The ONNX models can be over 1 GBs.
 
-[ONNX.pdf](https://github.com/HighPoint/aws-lambda-onnx-model/files/8072627/ONNX.pdf)
+![ONNX](https://user-images.githubusercontent.com/5720767/154100057-06d25a00-cfd5-40a6-b4c4-a303bbcaf5d7.jpg)
+
 
 
 This model has two dependencies, the python Pillow and onnxruntime libraries. These need to be added as AWS Lambda Layers. Numpy is included in the onnxruntime. 
