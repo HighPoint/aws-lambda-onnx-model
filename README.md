@@ -36,14 +36,11 @@ Example:
 
 Original Image:
 
-![dog4](https://user-images.githubusercontent.com/5720767/154103872-faee83f5-94d0-4576-9dd2-203aeb2b5e87.jpg)
-
 ![dog5](https://user-images.githubusercontent.com/5720767/154112228-22f1ca1e-b6b6-4ff9-ae73-a6b01b855f85.jpg)
 
 
 ONNX 10x Super Resolution:
 
-![onnxTestImage-5](https://user-images.githubusercontent.com/5720767/154103976-c861a1eb-6f44-4936-8e20-e1857ada9f42.jpg)
 
 ![onnxTestImage-6](https://user-images.githubusercontent.com/5720767/154112139-32eda91d-b104-4420-82d9-2705aaf71b9a.jpg)
 
