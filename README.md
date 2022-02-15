@@ -8,3 +8,12 @@ In order to create the Lambda Layers, do a Docker pull:
 
 Then run:
 
+
+
+    opencv-python  
+    numpy
+    Pillow
+    spaCy
+
+
+
