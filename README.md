@@ -6,9 +6,7 @@ In order to create the Lambda Layers, do a Docker pull:
 
 
     docker pull highpoints/aws-lambda-layer-zip-builder:latest  
-    numpy
-    Pillow
-    spaCy
+
 
 
   docker pull highpoints/aws-lambda-layer-zip-builder:latest
