@@ -13,10 +13,9 @@ Then run:
 
 
 
-    opencv-python  
-    numpy
-    Pillow
-    spaCy
+    docker run --rm -v $(pwd):/package highpoints/aws-lambda-layer-zip-builder Pillow  
+    docker run --rm -v $(pwd):/package highpoints/aws-lambda-layer-zip-builder onnxruntime 
+
 
 
 
